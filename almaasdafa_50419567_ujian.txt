@@ -1,0 +1,6 @@
+nama: almaas dafa
+kelas : 4IA19
+npm : 50419567
+
+
+Link github : https://github.com/almaasdf/rplproject.git
